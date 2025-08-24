@@ -1,2 +1,3 @@
-# hangar-infra
-This terraform repo is for iaac, Last change was done by Vladimir Duris
+#This prod terraform in infra repository is for iaac only!
+Last change done by user: Vladimir Duris
+Serus
